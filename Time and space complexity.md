@@ -1,6 +1,6 @@
 # Insertion-Sort
-Time complexity:
+#Time complexity:
 •	Best case: O(n)
 •	Average and Worst case: O(n2)
-Space complexity:
+#Space complexity:
 •	O(1)
